@@ -9,8 +9,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](snek-server-screenshot.png)
-!["screenshot description"](#)
+!["snek-server-screenshot"](snek-server-screenshot.png)
+!["snake-client-screenshot"](#)
 
 ##
 
